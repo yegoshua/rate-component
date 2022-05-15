@@ -30,10 +30,6 @@ const MarkItem = styled.button`
     background-color: #7c8799;
     color: hsl(0, 0%, 100%);
   }
-  &:active {
-    background-color: #fc7617;
-    color: hsl(0, 0%, 100%);
-  }
 `;
 
 const Raiting = ({ setRaiting }) => {
